@@ -1,0 +1,23 @@
+{
+  "name": "admnstart",
+  "version": "1.0.0",
+  "description": "administration system",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobBermudes/literate-octo-invention.git"
+  },
+  "author": "AntonyVa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobBermudes/literate-octo-invention/issues"
+  },
+  "homepage": "https://github.com/JacobBermudes/literate-octo-invention#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
